@@ -161,6 +161,8 @@ body{
 
 .text-chat-container-right{
   display: flex;
+  justify-content:right;
+  align-items: center;
   flex: 10%;
 }
 
